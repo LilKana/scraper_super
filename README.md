@@ -1,2 +1,7 @@
 # scraper_super
-scraper de supermercados para sacar datos especificos de los productos segun supermercados principales 
+pip install playwright
+pip install pandas
+
+
+ejemplo de iniciar scraper
+python scraper_supermercado_jumbo.py
